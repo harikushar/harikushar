@@ -1,4 +1,4 @@
-### Hi there 👋 welcome to my page.
+### Hi there 👋 welcome to my page. my name is Hari Kusharwanto. newbie to data science
 
 <!--
 **harikushar/harikushar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
